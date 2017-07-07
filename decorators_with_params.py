@@ -1,9 +1,10 @@
-
+from functools import wraps
 
 
 def tags(tag):
     def inner_decorator(func):
         # kazdy dekorator musi miec wrapper:
+        @wraps(func) # <- zwiazane z tamtym importem na górze^
         def wrapper(*args, **kwargs):
 
             result = func(*args, **kwargs)
