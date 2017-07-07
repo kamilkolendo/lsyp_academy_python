@@ -1,0 +1,225 @@
+1499414599646	geckodriver	INFO	Listening on 127.0.0.1:50907
+1499414601740	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499414602725	Marionette	INFO	Listening on port 50913
+1499414602909	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499414630893	geckodriver	INFO	Listening on 127.0.0.1:56779
+1499414632971	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499414633939	Marionette	INFO	Listening on port 56785
+1499414634090	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499414799609	geckodriver	INFO	Listening on 127.0.0.1:56831
+1499414801703	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499414802683	Marionette	INFO	Listening on port 56837
+1499414802837	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499415106268	geckodriver	INFO	Listening on 127.0.0.1:56926
+1499415108367	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499415109340	Marionette	INFO	Listening on port 56932
+1499415109496	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 4996] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 4996] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1499415374438	geckodriver	INFO	Listening on 127.0.0.1:56996
+1499415376532	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499415377512	Marionette	INFO	Listening on port 57002
+1499415377668	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 4632] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 4632] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1499415391039	geckodriver	INFO	Listening on 127.0.0.1:57024
+1499415393117	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499415394088	Marionette	INFO	Listening on port 57030
+1499415394237	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499415456676	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.child1/highlighter34
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] EJavaScript error: https://www.wykop.pl/static/wykoppl/s/36bef9071a63c3d66297d9cb4f445fdd.js, line 2: TypeError: a.ownerDocument.defaultView is null
+JavaScript error: https://s372.mxcdn.net/bb-mx/serve/mtrcs_618288.js, line 30: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://bbcdn-bbnaut.ibillboard.com/library/bbnaut-lib-1.8.8.min.js, line 7: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://pixel.adsafeprotected.com/jload?anId=7590&campId=482188&pubId=13998&chanId=81426&placementId=658180-40&adsafe_par&bidurl=https://www.wykop.pl/&impId=51cdfcf1-6596-476a-b2b9-c04776c6a0a3, line 151: NS_ERROR_NOT_INITIALIZED: 
+[Child 1848] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+vaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x460102,name=PContent::Msg_AsyncMessage) Channel closing: too late to send/recv, messages will be lost
+
+JavaScript error: chrome://global/content/process-content.js, line 71: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIMessageSender.sendAsyncMessage]
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C0048,name=PBrowser::Msg___delete__) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x4600AB,name=PContent::Msg_ConsoleMessage) Channel closing: too late to send/recv, messages will be lost
+
+1499415778173	geckodriver	INFO	Listening on 127.0.0.1:57467
+1499415780251	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499415781188	Marionette	INFO	Listening on port 57473
+1499415781346	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 9260] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 9260] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1499415843181	geckodriver	INFO	Listening on 127.0.0.1:57731
+1499415845275	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499415846267	Marionette	INFO	Listening on port 57737
+1499415846415	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10456] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+1499415863221	geckodriver	INFO	Listening on 127.0.0.1:57792
+1499415865304	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499415866401	Marionette	INFO	Listening on port 57800
+1499415866857	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: chrome://browser/content/content.js, line 300: TypeError: div is null
+[Child 8896] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1499415915465	geckodriver	INFO	Listening on 127.0.0.1:58049
+1499415917559	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499415918508	Marionette	INFO	Listening on port 58055
+1499415918662	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 6804] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 6804] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1499415973267	geckodriver	INFO	Listening on 127.0.0.1:58282
+1499415975330	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499415976307	Marionette	INFO	Listening on port 58288
+1499415976459	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499416039027	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Child 2868] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 2868] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1499416170494	geckodriver	INFO	Listening on 127.0.0.1:58501
+1499416172603	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499416173579	Marionette	INFO	Listening on port 58507
+1499416173731	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 9712] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+1499417974442	geckodriver	INFO	Listening on 127.0.0.1:50677
+1499417976534	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499417977542	Marionette	INFO	Listening on port 50683
+1499417977697	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499418163787	geckodriver	INFO	Listening on 127.0.0.1:50796
+1499418165866	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499418166824	Marionette	INFO	Listening on port 50802
+1499418166988	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 10920] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 10920] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1499418199131	geckodriver	INFO	Listening on 127.0.0.1:50850
+1499418201225	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499418202170	Marionette	INFO	Listening on port 50856
+1499418202326	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 2940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 2940] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1499418233847	geckodriver	INFO	Listening on 127.0.0.1:50913
+1499418235940	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499418236872	Marionette	INFO	Listening on port 50919
+1499418237030	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499418326612	geckodriver	INFO	Listening on 127.0.0.1:50972
+1499418328706	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499418329666	Marionette	INFO	Listening on port 50978
+1499418329824	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 7200] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1499418346112	geckodriver	INFO	Listening on 127.0.0.1:51024
+1499418348190	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499418349140	Marionette	INFO	Listening on port 51030
+1499418349297	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499418364055	geckodriver	INFO	Listening on 127.0.0.1:51052
+1499418366133	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499418367425	Marionette	INFO	Listening on port 51058
+1499418367695	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 8116] ###!!! ABORT: Aborting on channel error.: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/glue/MessageChannel.cpp, line 2152
+1499418393475	geckodriver	INFO	Listening on 127.0.0.1:51171
+1499418395560	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499418396663	Marionette	INFO	Listening on port 51177
+1499418397097	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 2880] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 2880] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1499418413749	geckodriver	INFO	Listening on 127.0.0.1:51302
+1499418415843	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499418416791	Marionette	INFO	Listening on port 51309
+1499418416959	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 7516] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 7516] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+1499418451026	geckodriver	INFO	Listening on 127.0.0.1:51454
+1499418453135	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499418454067	Marionette	INFO	Listening on port 51462
+1499418454222	Marionette	WARN	TLS certificate errors will be ignored for this session
+1499418503312	geckodriver	INFO	Listening on 127.0.0.1:51708
+1499418505406	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1499418506341	Marionette	INFO	Listening on port 51714
+1499418506496	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Child 9780] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
+[Child 9780] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-esr52-w32-000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 345
